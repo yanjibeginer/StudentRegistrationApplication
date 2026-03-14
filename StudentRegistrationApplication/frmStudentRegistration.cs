@@ -66,7 +66,7 @@ namespace StudentRegistrationApplication
                 ArrayList programs = new ArrayList();
                 programs.Add("Bachelor of Science in Computer Science");
                 programs.Add("Bachelor of Science in Information Technology");
-                programs.Add("Bachelor of Science in Tourism Management");
+                programs.Add("Bachelor of Science in Information Systems");
                 programs.Add("Bachelor of Science in Computer Engineering");
                 foreach (string p in programs)
                 {
